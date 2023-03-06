@@ -1,0 +1,35 @@
+body{
+   background-color:floralwhite;
+}
+
+
+
+.increment-btn{
+    margin-left:500px;
+    height: 80px;
+    width: 20rem;
+    border: 0;
+    border-radius: 12px;
+    font-size: 15px;
+}
+
+.save-btn{
+    margin-left:500px;
+    height: 60px;
+    width:20rem;
+    border: 0;
+    border-radius: 12px;
+    font-size: 15px;
+}
+
+.huge{
+    font-size: 10rem;
+    color: blue;
+}
+
+
+h1{
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
